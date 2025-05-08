@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import logo from '../assets/sellsoft.logo.png';
+import logo from '../assets/SellSoft.logo.png';
 import { IoMenu } from "react-icons/io5";
 import { ImCross } from "react-icons/im";
 import { Link } from 'react-scroll';
