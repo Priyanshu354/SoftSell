@@ -90,7 +90,7 @@ SoftSell is a modern, responsive, single-page marketing website for a fictional 
 ---
 
 ## 👋 Stay Connected
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/priyanshuraj354/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/priyanshu-raj-96314525a/)
 
 ---
 
