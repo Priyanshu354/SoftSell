@@ -2,8 +2,8 @@
 
 SoftSell is a modern, responsive, single-page marketing website for a fictional software license resale startup. This project showcases clean UI/UX, fast performance, and thoughtful design.
 
-🔗 **Live Demo**: [softsell.vercel.app](https://soft-sell-xi.vercel.app/)  
-📂 **GitHub Repo**: [github.com/Priyanshu354/SoftSell](https://github.com/Priyanshu354/SoftSell)
+🔗 **Live Demo**: [https://soft-sell-xi.vercel.app/](https://soft-sell-xi.vercel.app/)  
+📂 **GitHub Repo**: [https://github.com/Priyanshu354/SoftSell](https://github.com/Priyanshu354/SoftSell)
 
 ---
 
