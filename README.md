@@ -1,8 +1,8 @@
 # 🚀 SoftSell – License Resale Simplified
 
-SoftSell is a modern, responsive, single-page marketing website for a fictional software license resale startup. Built as part of the **Credex Web Development Internship Assignment**, this project showcases clean UI/UX, fast performance, and thoughtful design.
+SoftSell is a modern, responsive, single-page marketing website for a fictional software license resale startup. This project showcases clean UI/UX, fast performance, and thoughtful design.
 
-🔗 **Live Demo**: [softsell.vercel.app](https://softsell.vercel.app)  
+🔗 **Live Demo**: [softsell.vercel.app](https://soft-sell-xi.vercel.app/)  
 📂 **GitHub Repo**: [github.com/Priyanshu354/SoftSell](https://github.com/Priyanshu354/SoftSell)
 
 ---
@@ -46,8 +46,8 @@ SoftSell is a modern, responsive, single-page marketing website for a fictional 
   - Collapsible menu for mobile devices
 - ✅ **Footer with Social Links**
   - Includes placeholders for social media icons
-- ✅ **404 Page**
-  - Custom 404 page for undefined routes
+- ✅ **FAQ Section**
+  - Frequently asked Questions
 - 🌓 **Dark Mode Toggle** – *[In Progress]*
 
 ---
@@ -58,7 +58,7 @@ SoftSell is a modern, responsive, single-page marketing website for a fictional 
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
 - **Hosting**: Vercel
-- **AI Integration**: OpenAI API (mocked via hardcoded flow)
+- **AI Integration**: Gemini API (mocked via hardcoded flow)
 - **Form Handling**: Frontend only (no backend)
 
 ---
@@ -79,7 +79,7 @@ SoftSell is a modern, responsive, single-page marketing website for a fictional 
 |----------------------------------|--------------|
 | Planning & UI Wireframes         | 1.5 hours    |
 | Core Section Development         | 4 hours      |
-| Chat Widget Integration          | 1.5 hours    |
+| Chat Widget Integration          | 2 hours    |
 | Form Logic & Validation          | 1 hour       |
 | Animations + Interactivity       | 1 hour       |
 | SEO Optimization + Meta Tags     | 30 mins      |
@@ -90,19 +90,48 @@ SoftSell is a modern, responsive, single-page marketing website for a fictional 
 ---
 
 ## 👋 Stay Connected
-
-If you’re reviewing this from **Credex**, thank you for the opportunity!  
-Even if I don’t make the final cut, I’d love to stay connected.
-
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/priyanshuraj354/)
 
 ---
 
-## 📸 Screenshots
+## 📁 Folder Structure
+SoftSell/
+├── Frontend/
+│   ├── node_modules/            # Project dependencies
+│   ├── public/                  # svg
+│   └── src/                     # Source code
+│       ├── assets/             # Images, icons, and other static files
+│       ├── component/          # Reusable UI components
+│       │   ├── Contact.jsx
+│       │   ├── Faq.jsx
+│       │   ├── Footer.jsx
+│       │   ├── Hero.jsx
+│       │   ├── HowItWorks.jsx
+│       │   ├── LLM.jsx
+│       │   ├── Navbar.jsx
+│       │   ├── Testimonials.jsx
+│       │   └── WhychooseUs.jsx
+│       ├── utilise/            # Utility Gemini Api
+│       ├── App.css             # Main app styles
+│       ├── App.jsx             # App entry point
+│       ├── index.css           # Global styles
+│       └── main.jsx            # ReactDOM root render
+├── .env                        # Environment variables
+├── .gitignore                  # Files to ignore in git
+├── eslint.config.js           # ESLint configuration
+├── index.html                 # Main HTML file
+├── package.json               # Project metadata and scripts
+├── package-lock.json          # Dependency lock file
+├── README.md                  # Project documentation
+└── vite.config.js             # Vite configuration
 
-_Add your screenshots here under `public/screenshots/` for better visual impact._
 
 ---
 
-## 📁 Folder Structure
+## 🚀 Getting Started Locally
+
+```bash
+git clone https://github.com/Priyanshu354/SoftSell.git
+cd SoftSell
+npm install
 
