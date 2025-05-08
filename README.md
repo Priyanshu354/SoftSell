@@ -96,34 +96,36 @@ SoftSell is a modern, responsive, single-page marketing website for a fictional 
 
 ## 📁 Folder Structure
 SoftSell/
-├── Frontend/
-│   ├── node_modules/            # Project dependencies
-│   ├── public/                  # svg
-│   └── src/                     # Source code
-│       ├── assets/             # Images, icons, and other static files
-│       ├── component/          # Reusable UI components
-│       │   ├── Contact.jsx
-│       │   ├── Faq.jsx
-│       │   ├── Footer.jsx
-│       │   ├── Hero.jsx
-│       │   ├── HowItWorks.jsx
-│       │   ├── LLM.jsx
-│       │   ├── Navbar.jsx
-│       │   ├── Testimonials.jsx
-│       │   └── WhychooseUs.jsx
-│       ├── utilise/            # Utility Gemini Api
-│       ├── App.css             # Main app styles
-│       ├── App.jsx             # App entry point
-│       ├── index.css           # Global styles
-│       └── main.jsx            # ReactDOM root render
-├── .env                        # Environment variables
-├── .gitignore                  # Files to ignore in git
-├── eslint.config.js           # ESLint configuration
-├── index.html                 # Main HTML file
-├── package.json               # Project metadata and scripts
-├── package-lock.json          # Dependency lock file
-├── README.md                  # Project documentation
-└── vite.config.js             # Vite configuration
+Frontend/
+├── node_modules/                # Project dependencies (auto-generated)
+├── public/                      # Static files (e.g., SVGs, assets)
+│   └── svg/                     # SVG icons used in the project
+├── src/                         # Source code for the React application
+│   ├── assets/                  # Images, icons, and other static files
+│   ├── component/               # Reusable UI components
+│   │   ├── Contact.jsx          # Contact form component
+│   │   ├── Faq.jsx              # FAQ section component
+│   │   ├── Footer.jsx           # Footer section component
+│   │   ├── Hero.jsx             # Hero section component
+│   │   ├── HowItWorks.jsx       # "How it Works" steps component
+│   │   ├── LLM.jsx              # LLM-powered chat widget component
+│   │   ├── Navbar.jsx           # Navbar component
+│   │   ├── Testimonials.jsx     # Customer testimonials component
+│   │   └── WhychooseUs.jsx      # "Why Choose Us" section component
+│   ├── utilise/                 # Utility functions (e.g., Gemini API calls)
+│   ├── App.css                  # Main app styles (CSS)
+│   ├── App.jsx                  # Main React component entry point
+│   ├── index.css                # Global styles
+│   └── main.jsx                 # ReactDOM root render
+├── .env                          # Environment variables
+├── .gitignore                    # Files and folders to be ignored by Git
+├── eslint.config.js              # ESLint configuration file
+├── index.html                    # Main HTML file for the React app
+├── package.json                  # Project metadata, dependencies, and scripts
+├── package-lock.json             # Dependency lock file (auto-generated)
+├── README.md                     # Project documentation
+└── vite.config.js                # Vite configuration file for bundling and development
+
 
 
 ---
