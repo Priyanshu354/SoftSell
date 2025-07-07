@@ -72,22 +72,6 @@ SoftSell is a modern, responsive, single-page marketing website for a fictional 
 
 ---
 
-## ⏱️ Time Spent
-
-| Task                             | Time         |
-|----------------------------------|--------------|
-| Planning & UI Wireframes         | 1.5 hours    |
-| Core Section Development         | 4 hours      |
-| Chat Widget Integration          | 2 hours    |
-| Form Logic & Validation          | 1 hour       |
-| Animations + Interactivity       | 1 hour       |
-| SEO Optimization + Meta Tags     | 30 mins      |
-| Navbar, Footer & Scroll-to-Top   | 1 hour       |
-| Hosting, Testing & README        | 30 mins      |
-| **Total**                        | **10+ hours**|
-
----
-
 ## 👋 Stay Connected
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/priyanshu-raj-96314525a/)
 
